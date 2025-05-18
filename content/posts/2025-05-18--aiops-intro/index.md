@@ -3,7 +3,7 @@ title: "La adopción de AIOps en el sector financiero colombiano: una visión pr
 date: "2025-05-18T16:19:00.0Z"
 template: "post"
 draft: false
-slug: "/posts/aiops-introduccion
+slug: "/posts/aiops-introduccion"
 category: "Inteligencia Artificial"
 tags:
   - "aiops"

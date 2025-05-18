@@ -3,7 +3,7 @@ title: "Análisis Profundo de Logs: Clave del Éxito de AIOps"
 date: "2025-05-18T16:22:00.0Z"
 template: "post"
 draft: false
-slug: "/posts/aiops-analisis-de-logs
+slug: "/posts/aiops-analisis-de-logs"
 category: "Inteligencia Artificial"
 tags:
   - "aiops"

@@ -3,7 +3,7 @@ title: "Cómo la reducción de ruido impulsa la efectividad de AIOps en la banca
 date: "2025-05-18T16:20:00.0Z"
 template: "post"
 draft: false
-slug: "/posts/aiops-reduccion-de-ruido
+slug: "/posts/aiops-reduccion-de-ruido"
 category: "Inteligencia Artificial"
 tags:
   - "aiops"
