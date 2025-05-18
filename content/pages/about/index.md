@@ -1,13 +1,11 @@
 ---
-title: "About me"
+title: "Sobre mi"
 template: "page"
 socialImage: "./image.jpg"
 ---
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.
+Soy Julian, un apasionado por la tecnología, la innovación y el desarrollo de soluciones digitales. Actualmente estoy enfocado en desarrollar diferentes proyectos proyectos para el mercado colombiano. Mi interés en la integración de herramientas avanzadas busca optimizar estos proyectos mediante inteligencia artificial generativa, con el objetivo de mejorar la experiencia del usuario a través de recomendaciones personalizadas y análisis inteligente de productos.
 
-![Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.](./image.jpg)
+Además de mi faceta técnica, disfruto profundizando en las prácticas modernas de monitoreo y observabilidad aplicadas al ámbito financiero, particularmente explorando técnicas avanzadas de AIOps. Creo firmemente en la importancia del análisis proactivo para reducir riesgos y tiempos de respuesta, lo cual reflejo constantemente en los contenidos que genero para educar y compartir conocimiento con otros profesionales interesados en mejorar sus prácticas tecnológicas.
 
-_Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi._
-
-Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus
+En paralelo, mi vida personal está marcada por el entusiasmo hacia la innovación continua y el aprendizaje constante, siempre acompañado por el apoyo fundamental de mi familia. Mi objetivo es continuar creciendo profesionalmente, creando soluciones que aporten valor tangible a los usuarios y generen impacto en la comunidad tecnológica.

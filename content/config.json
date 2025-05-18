@@ -1,37 +1,37 @@
 {
-  "title": "Blog by John Doe",
-  "url": "https://lumen.alxshelepenok.com",
-  "description": "Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.",
+  "title": "Blog de Julian Muñoz",
+  "url": "https://github.com/JulianD",
+  "description": "Un blog personal para la clase de Unir.",
   "copyright": "© All rights reserved.",
-  "googleAnalyticsId": "G-MSQGQG14PK",
+  "googleAnalyticsId": "",
   "pathPrefix": "/",
   "feedLimit": 4,
   "menu": [
     {
-      "title": "Articles",
+      "title": "Artículos",
       "url": "/"
     },
     {
-      "title": "About me",
+      "title": "Sobre mí",
       "url": "/pages/about"
     },
     {
-      "title": "Contact me",
+      "title": "Contáctame",
       "url": "/pages/contacts"
     }
   ],
   "author": {
-    "title": "John Doe",
+    "title": "Julian Muñoz",
     "photo": "/logo.png",
-    "description": "Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.",
+    "description": "Un apasionado por la programación y el desarrollo web.",
     "contacts": [
       {
         "name": "github",
-        "contact": "alxshelepenok"
+        "contact": "JulianD"
       },
       {
         "name": "linkedin",
-        "contact": "alxshelepenok"
+        "contact": "laneros"
       }
     ]
   }
